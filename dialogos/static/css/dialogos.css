@@ -1,0 +1,19 @@
+/*! project specific CSS goes here. */
+
+#answer{
+	clear: both;
+}
+
+#question{
+}
+
+#edit{
+	width: 35%;
+	float: right;
+}
+
+#editText{
+	float: left;
+	margin-bottom: 15px;
+	width: 60%;
+}
